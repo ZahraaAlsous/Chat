@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "64fac01234567890abcdefa1",
+    "text": "مرحبا يا سارة!",
+    "chatId": "64fabf1234567890abcdef99",
+    "sender": "64fabc1234567890abcdef01",
+    "type": "text",
+    "createdAt": "2025-07-05T12:12:00.000Z"
+  },
+  {
+    "_id": "64fac01234567890abcdefa2",
+    "text": "أهلاً أحمد! كيفك؟",
+    "chatId": "64fabf1234567890abcdef99",
+    "sender": "64fabc1234567890abcdef02",
+    "type": "text",
+    "createdAt": "2025-07-05T12:12:30.000Z"
+  }
+]
